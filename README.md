@@ -1,3 +1,3 @@
 # hello
 try first
-A freshman in data mining.
+A freshman in data mining and machine learning.
